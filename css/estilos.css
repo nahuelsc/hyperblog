@@ -1,6 +1,11 @@
-body
-{
-    color: deeppink;
+body {
+    color: blue;
     text-align: center;
     font-family: "Arial";
+}
+
+.container {
+    width: 500px;
+    border: 10px solid red;
+    margin: 0 auto;
 }
