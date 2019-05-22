@@ -9,3 +9,14 @@ body {
     border: 10px solid red;
     margin: 0 auto;
 }
+
+.cabecera {
+    background: blueviolet;
+    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.75);
+    color: aliceblue;
+    font-family: bold;
+    font-size: 25px;
+    text-align: left;
+    margin: 0;
+    padding-left: 1em;
+}
