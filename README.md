@@ -1,2 +1,0 @@
-# bueycon
-Proyecto sitio bueycon
